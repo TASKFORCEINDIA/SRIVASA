@@ -1,0 +1,26 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SriVasa App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family:Arial; text-align:center;">
+
+<h1>SriVasa App</h1>
+<p>Exclusive Sarees</p>
+
+<p><b>Categories</b></p>
+<p>Silk | Cotton | Handloom | Party Wear</p>
+
+<p><b>Delivery</b></p>
+<p>Hyderabad – Hand Delivery<br>Other Cities – Courier</p>
+
+<p>
+<a href="https://wa.me/91XXXXXXXXXX">
+Order on WhatsApp
+</a>
+</p>
+
+</body>
+</html>
